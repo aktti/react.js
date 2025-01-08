@@ -1,0 +1,10 @@
+.cricle{
+    /* background-color: red; */
+    width: 40%;
+    height: 25rem;
+    border-radius: 50%;
+    border: 2px solid magenta;
+    border-bottom: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+}
